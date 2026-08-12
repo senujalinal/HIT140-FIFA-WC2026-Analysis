@@ -1,0 +1,105 @@
+match_id,stage,first_half_goals,second_half_goals,second_minus_first
+1,Matchday 1,1,1,0
+2,Matchday 1,0,3,3
+3,Matchday 8,1,1,0
+4,Matchday 8,0,1,1
+5,Matchday 14,0,3,3
+6,Matchday 14,0,1,1
+7,Matchday 2,1,1,0
+8,Matchday 3,1,1,0
+9,Matchday 8,0,5,5
+10,Matchday 8,3,3,0
+11,Matchday 14,0,3,3
+12,Matchday 14,3,1,-2
+13,Matchday 3,2,0,-2
+14,Matchday 3,1,0,-1
+15,Matchday 9,1,0,-1
+16,Matchday 9,3,0,-3
+17,Matchday 14,2,1,-1
+18,Matchday 14,4,2,-2
+19,Matchday 2,3,2,-1
+20,Matchday 3,1,1,0
+21,Matchday 9,2,0,-2
+22,Matchday 9,1,0,-1
+23,Matchday 15,3,2,-1
+24,Matchday 15,0,0,0
+25,Matchday 4,4,4,0
+26,Matchday 4,0,1,1
+27,Matchday 10,1,2,1
+28,Matchday 10,0,0,0
+29,Matchday 15,1,1,0
+30,Matchday 15,2,1,-1
+31,Matchday 4,0,4,4
+32,Matchday 4,3,3,0
+33,Matchday 10,2,4,2
+34,Matchday 10,2,2,0
+35,Matchday 15,0,2,2
+36,Matchday 15,2,2,0
+37,Matchday 5,1,1,0
+38,Matchday 5,2,2,0
+39,Matchday 11,0,0,0
+40,Matchday 11,1,3,2
+41,Matchday 16,2,0,-2
+42,Matchday 16,1,5,4
+43,Matchday 5,0,0,0
+44,Matchday 5,1,1,0
+45,Matchday 11,3,1,-2
+46,Matchday 11,3,1,-2
+47,Matchday 16,0,0,0
+48,Matchday 16,1,0,-1
+49,Matchday 6,0,4,4
+50,Matchday 6,3,2,-1
+51,Matchday 12,1,2,1
+52,Matchday 12,1,4,3
+53,Matchday 16,4,1,-3
+54,Matchday 16,1,4,3
+55,Matchday 6,1,2,1
+56,Matchday 6,1,3,2
+57,Matchday 12,1,1,0
+58,Matchday 12,1,2,1
+59,Matchday 17,2,4,2
+60,Matchday 17,2,2,0
+61,Matchday 7,2,0,-2
+62,Matchday 7,1,3,2
+63,Matchday 13,3,2,-1
+64,Matchday 13,0,1,1
+65,Matchday 17,0,0,0
+66,Matchday 17,1,3,2
+67,Matchday 7,4,2,-2
+68,Matchday 7,0,1,1
+69,Matchday 13,0,0,0
+70,Matchday 13,0,1,1
+71,Matchday 17,0,2,2
+72,Matchday 17,1,2,1
+73,Round of 32,0,1,1
+74,Round of 32,1,1,0
+75,Round of 32,0,2,2
+76,Round of 32,1,2,1
+77,Round of 32,1,2,1
+78,Round of 32,1,2,1
+79,Round of 32,1,1,0
+80,Round of 32,1,2,1
+81,Round of 32,1,1,0
+82,Round of 32,1,3,2
+83,Round of 32,0,3,3
+84,Round of 32,1,2,1
+85,Round of 32,1,1,0
+86,Round of 32,1,1,0
+87,Round of 32,1,0,-1
+88,Round of 32,1,1,0
+89,Round of 16,0,1,1
+90,Round of 16,0,3,3
+91,Round of 16,0,3,3
+92,Round of 16,3,2,-1
+93,Round of 16,0,1,1
+94,Round of 16,3,2,-1
+95,Round of 16,1,4,3
+96,Round of 16,0,0,0
+97,Quarter-final,0,2,2
+98,Quarter-final,2,1,-1
+99,Quarter-final,2,0,-2
+100,Quarter-final,1,1,0
+101,Semi-final,1,1,0
+102,Semi-final,0,3,3
+103,Match for third place,4,6,2
+104,Final,0,0,0

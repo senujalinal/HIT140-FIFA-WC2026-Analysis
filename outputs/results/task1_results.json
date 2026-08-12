@@ -1,0 +1,30 @@
+{
+  "question": "Were more regulation-time goals scored after half-time than before half-time?",
+  "first_half": {
+    "n": 104,
+    "mean": 1.2019230769230769,
+    "median": 1.0,
+    "sd": 1.1438294367750634,
+    "min": 0.0,
+    "max": 4.0
+  },
+  "second_half": {
+    "n": 104,
+    "mean": 1.6826923076923077,
+    "median": 1.0,
+    "sd": 1.331211748723791,
+    "min": 0.0,
+    "max": 6.0
+  },
+  "mean_difference": 0.4807692307692308,
+  "mean_difference_ci_95": [
+    0.16129367689710494,
+    0.8002447846413566
+  ],
+  "one_sample_t": 2.9845550487594776,
+  "p_value": 0.0035472224144981897,
+  "cohens_dz": 0.2926597006349316,
+  "shapiro_p": 0.001336163344075914,
+  "wilcoxon_statistic": 806.0,
+  "wilcoxon_p": 0.00595471747738035
+}
