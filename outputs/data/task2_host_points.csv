@@ -1,0 +1,73 @@
+match_id,group,team,points
+1,host,Mexico,3
+4,host,Mexico,3
+5,host,Mexico,3
+7,host,Canada,1
+10,host,Canada,3
+11,host,Canada,0
+19,host,USA,3
+21,host,USA,3
+23,host,USA,0
+2,comparison,South Korea,3
+3,comparison,Czech Republic,1
+6,comparison,South Korea,0
+8,comparison,Qatar,1
+9,comparison,Switzerland,3
+12,comparison,Bosnia & Herzegovina,3
+13,comparison,Brazil,1
+14,comparison,Haiti,0
+15,comparison,Morocco,3
+16,comparison,Haiti,0
+17,comparison,Brazil,3
+18,comparison,Morocco,3
+20,comparison,Australia,3
+22,comparison,Turkey,0
+24,comparison,Paraguay,1
+25,comparison,Curaçao,0
+26,comparison,Ecuador,0
+27,comparison,Ivory Coast,0
+28,comparison,Ecuador,1
+29,comparison,Ivory Coast,3
+30,comparison,Germany,0
+31,comparison,Netherlands,1
+32,comparison,Tunisia,0
+33,comparison,Netherlands,3
+34,comparison,Japan,3
+35,comparison,Japan,1
+36,comparison,Tunisia,0
+37,comparison,Belgium,1
+38,comparison,New Zealand,1
+39,comparison,Belgium,1
+40,comparison,Egypt,3
+41,comparison,Egypt,1
+42,comparison,Belgium,3
+43,comparison,Spain,1
+44,comparison,Saudi Arabia,1
+45,comparison,Saudi Arabia,0
+46,comparison,Uruguay,1
+47,comparison,Saudi Arabia,1
+48,comparison,Spain,3
+49,comparison,France,3
+50,comparison,Iraq,0
+51,comparison,France,3
+52,comparison,Senegal,0
+53,comparison,France,3
+54,comparison,Iraq,0
+55,comparison,Algeria,0
+56,comparison,Jordan,0
+57,comparison,Austria,0
+58,comparison,Algeria,3
+59,comparison,Austria,1
+60,comparison,Argentina,3
+61,comparison,DR Congo,1
+62,comparison,Colombia,3
+63,comparison,Uzbekistan,0
+64,comparison,DR Congo,0
+65,comparison,Colombia,1
+66,comparison,Uzbekistan,0
+67,comparison,Croatia,0
+68,comparison,Panama,0
+69,comparison,England,1
+70,comparison,Panama,0
+71,comparison,England,3
+72,comparison,Croatia,3

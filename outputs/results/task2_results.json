@@ -1,0 +1,31 @@
+{
+  "question": "Did the host nations earn more group-stage points per match than the comparison sample?",
+  "host": {
+    "n": 9,
+    "mean": 2.111111111111111,
+    "median": 3.0,
+    "sd": 1.3642254619787417,
+    "min": 0.0,
+    "max": 3.0
+  },
+  "comparison": {
+    "n": 63,
+    "mean": 1.3015873015873016,
+    "median": 1.0,
+    "sd": 1.278039332966847,
+    "min": 0.0,
+    "max": 3.0
+  },
+  "mean_difference": 0.8095238095238095,
+  "mean_difference_ci_95": [
+    -0.2637454637487475,
+    1.8827930827963666
+  ],
+  "welch_t": 1.6780917428828843,
+  "p_value": 0.1239212923059893,
+  "hedges_g": 0.6216666898124225,
+  "shapiro_host_p": 0.00048562156888739844,
+  "shapiro_comparison_p": 7.4004614976964525e-09,
+  "mann_whitney_statistic": 370.5,
+  "mann_whitney_p": 0.1172630499173777
+}
