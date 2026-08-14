@@ -1,0 +1,31 @@
+{
+  "question": "Were knockout matches more closely contested than group-stage matches?",
+  "knockout": {
+    "n": 32,
+    "mean": 1.34375,
+    "median": 1.0,
+    "sd": 0.8654432017665117,
+    "min": 0.0,
+    "max": 3.0
+  },
+  "group": {
+    "n": 72,
+    "mean": 1.6527777777777777,
+    "median": 1.0,
+    "sd": 1.5397065956298226,
+    "min": 0.0,
+    "max": 6.0
+  },
+  "mean_difference_knockout_minus_group": -0.3090277777777777,
+  "mean_difference_ci_95": [
+    -0.7801319064110367,
+    0.16207635085548133
+  ],
+  "welch_t": -1.3020229368838276,
+  "p_value": 0.19601327932968193,
+  "hedges_g": -0.2238498800807448,
+  "shapiro_knockout_p": 0.00028324093270034093,
+  "shapiro_group_p": 5.166650871832828e-06,
+  "mann_whitney_statistic": 1089.0,
+  "mann_whitney_p": 0.6492576643079981
+}
