@@ -1,0 +1,31 @@
+{
+  "question": "Was group-stage scoring concentration different for teams that advanced?",
+  "advanced": {
+    "n": 32,
+    "mean": 0.4220238095238095,
+    "median": 0.4,
+    "sd": 0.1316560482714284,
+    "min": 0.2,
+    "max": 0.75
+  },
+  "eliminated": {
+    "n": 15,
+    "mean": 0.65,
+    "median": 0.5,
+    "sd": 0.24438130497691968,
+    "min": 0.3333333333333333,
+    "max": 1.0
+  },
+  "mean_difference_advanced_minus_eliminated": -0.22797619047619055,
+  "mean_difference_ci_95": [
+    -0.3693183360023866,
+    -0.0866340449499945
+  ],
+  "welch_t": -3.389761270618839,
+  "p_value": 0.003281359223581149,
+  "hedges_g": -1.283068748605366,
+  "shapiro_advanced_p": 0.022960385183086286,
+  "shapiro_eliminated_p": 0.012654272665612885,
+  "mann_whitney_statistic": 102.0,
+  "mann_whitney_p": 0.0012774241061508584
+}
