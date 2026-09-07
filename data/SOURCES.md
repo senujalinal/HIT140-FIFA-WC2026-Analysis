@@ -4,7 +4,7 @@ The analysis uses a local snapshot of the OpenFootball World Cup 2026 match data
 
 - Dataset page: https://github.com/openfootball/worldcup.json/tree/master/2026
 - Raw file: https://raw.githubusercontent.com/openfootball/worldcup.json/master/2026/worldcup.json
-- Retrieved: 7 September 2026
+- Retrieved: 4 August 2026
 - Records: 104 matches
 - SHA-256: `0ae2c18109b5aa86bc11928b43586ca430c234804d5bbf808d2c3bf2051ecfca`
 
