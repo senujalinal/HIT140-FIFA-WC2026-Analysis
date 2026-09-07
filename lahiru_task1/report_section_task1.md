@@ -44,4 +44,4 @@ The 2026 tournament averaged 0.48 more goals per match after half-time than befo
 
 ## Source
 
-OpenFootball World Cup 2026 match data, retrieved 7 September 2026. The source details and official FIFA cross-check links are recorded in `data/SOURCES.md`.
+OpenFootball World Cup 2026 match data, retrieved 4 August 2026. The source details and official FIFA cross-check links are recorded in `data/SOURCES.md`.
