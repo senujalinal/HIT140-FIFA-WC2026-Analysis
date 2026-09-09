@@ -59,4 +59,4 @@ All tests are two-sided at an alpha level of 0.05. Confidence intervals use the 
 
 ## Collaboration evidence
 
-Git history should record work completed or genuinely reviewed by each member. The group should also retain ordinary collaboration evidence, such as meeting notes, team-chat decisions, peer-review comments, and a simple task allocation record. Although we planned earlier, Jira and Confluence are not used for this project. Commit dates and authors must not be altered to manufacture a contribution pattern.
+Git history should record work completed or genuinely reviewed by each member. The group should also retain ordinary collaboration evidence, such as meeting notes, team-chat decisions, peer-review comments, and a simple task allocation record. Although we planned earlier, Jira and Confluence are not used for this project. 
